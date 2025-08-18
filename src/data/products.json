@@ -1,0 +1,810 @@
+[
+  {
+    "id": "advancesense-xm",
+    "name": { "en": "AdvancedSense XM", "ar": "AdvancedSense XM" },
+    "description": {
+      "en": "AdvancedSense XM is a portable and highly advanced air quality monitoring device featuring:\n\n- Cutting-edge sensor technology to accurately detect a wide range of pollutants including VOCs, CO2, CO, O3, NO2, and more.\n- Color touchscreen display with real-time readings, data logging, and intuitive interface.\n- Rugged, ergonomic design ideal for use in offices, schools, hospitals, and industrial environments.\n- Supports multiple probes (up to 3 DirectSense XM probes) with over 30 sensor options for comprehensive IAQ assessments.\n- WolfOS™ operating system for instant startup and easy operation.\n- Additional features: Bluetooth, Wi-Fi, microphone, speaker, audio/text notes, and advanced data analysis software.\n\nA complete and user-friendly solution for professional indoor air quality monitoring.",
+      "ar": "جهاز AdvancedSense XM هو جهاز محمول ومتقدم للغاية لمراقبة جودة الهواء، ويتميز بما يلي:\n\n- تقنية استشعار متطورة لقياس مجموعة واسعة من الملوثات بدقة، مثل المركبات العضوية المتطايرة (VOCs)، وثاني أكسيد الكربون (CO2)، وأول أكسيد الكربون (CO)، والأوزون (O3)، وثاني أكسيد النيتروجين (NO2) والمزيد.\n- شاشة لمس ملونة تعرض القراءات اللحظية، وتدعم تسجيل البيانات بواجهة استخدام سهلة.\n- تصميم متين ومريح، مناسب للمكاتب والمدارس والمستشفيات والبيئات الصناعية.\n- يدعم توصيل ما يصل إلى 3 مجسات DirectSense XM مع أكثر من 30 نوع مستشعر لتقييم شامل لجودة الهواء الداخلي.\n- نظام التشغيل WolfOS™ لتشغيل فوري وسهل الاستخدام.\n- مزايا إضافية: بلوتوث، واي فاي، ميكروفون، مكبر صوت، ملاحظات صوتية ونصية، وبرمجيات تحليل بيانات متقدمة.\n\nحل متكامل وسهل الاستخدام لمراقبة جودة الهواء الداخلي بشكل احترافي."
+    },
+    "specifications": {
+      "en": ["Manufacturer: GrayWolf", "Field: Environmental/Industrial"],
+      "ar": ["الشركة المصنعة: GrayWolf", "المجال: بيئي / صناعي"]
+    },
+    "applications": {
+      "en": [
+        "Healthcare facilities",
+        "Industrial hygiene assessments",
+        "Indoor Air Quality (IAQ) inspections",
+        "Educational institutions",
+        "Commercial and office buildings",
+        "Research and environmental studies"
+      ],
+      "ar": [
+        "المرافق الصحية",
+        "تقييمات السلامة الصناعية",
+        "فحوصات جودة الهواء الداخلي (IAQ)",
+        "المؤسسات التعليمية",
+        "المباني التجارية والمكتبية",
+        "الدراسات البيئية والبحثية"
+      ]
+    },
+    "manufacturer": "GrayWolf",
+    "image": "/images/products/advancesense-xm.png",
+    "category": "Air Quality Devices",
+    "specSheet": "/specs/advancesense-xm-specs.pdf"
+  },
+  {
+    "id": "directsense-ii-probes",
+    "name": { "en": "DirectSense II Probes", "ar": "DirectSense II Probes" },
+    "description": {
+      "en": "DirectSense II by GrayWolf are smart air quality probes supporting up to 8 plug-and-play sensors. They measure pollutants like CO₂, TVOCs, O₃, NO₂, and more with high precision.\nConnects via cable or Bluetooth to handhelds, PCs, or tablets.\nRechargeable, rugged, and ideal for spot checks or continuous monitoring.\nOffers smart sensor diagnostics, data logging, training videos, and remote access.\nPerfect for IAQ, green buildings, industrial and research applications.",
+      "ar": "DirectSense II من شركة GrayWolf هي مجسات ذكية لقياس جودة الهواء، تدعم حتى 8 حساسات قابلة للتبديل، وتوفر قياسات دقيقة لعشرات الملوثات مثل CO₂، TVOC، O₃، NO₂ وغيرها.\nتتصل بأجهزة يدوية أو كمبيوتر أو تابلت عبر الكيبل أو البلوتوث.\nمزودة ببطارية قابلة للشحن، وتستخدم للمسح السريع أو المراقبة المستمرة.\nتوفر توثيقًا ذكيًا، فيديوهات تدريب، تسجيل بيانات، واستشعار ذكي لحالة الحساسات.\nمناسبة للبيئات الصحية، المباني الخضراء، والصناعية."
+    },
+    "specifications": {
+      "en": ["Manufacturer: GrayWolf", "Field: Industrial/Laboratory"],
+      "ar": ["الشركة المصنعة: GrayWolf", "المجال: صناعي / مختبري"]
+    },
+    "applications": {
+      "en": [
+        "Indoor air quality assessments (IAQ)",
+        "Green building certifications",
+        "Industrial hygiene monitoring",
+        "Environmental research studies",
+        "Laboratory experiments and calibration"
+      ],
+      "ar": [
+        "تقييم جودة الهواء الداخلي (IAQ)",
+        "شهادات المباني الخضراء",
+        "مراقبة السلامة الصناعية",
+        "الدراسات البيئية والبحثية",
+        "التجارب المخبرية والمعايرة"
+      ]
+    },
+    "manufacturer": "GrayWolf",
+    "image": "/images/products/directsense-ii-probes.jpg",
+    "category": "Air Quality Devices",
+    "specSheet": "/specs/DirectSense II Probes.pdf"
+  },
+  {
+    "id": "aqmini",
+    "name": { "en": "AQmini", "ar": "AQmini" },
+    "description": {
+      "en": "AQmini is a compact, high-performance IAQ monitor measuring pollutants, PM2.5, PM10, CO₂, NO₂, temperature, humidity, and pressure.\nUses a 1–10 transmission score to indicate air quality levels.\nFeatures:\n\n- Wireless connectivity via WiFi, Bluetooth, and LoRa\n- Ultra-quiet operation (<7 dB)\n- USB-powered, low energy use\n- Pre-calibrated, plug-and-play setup",
+      "ar": "جهاز AQmini صغير وفعّال لمراقبة جودة الهواء الداخلي، يقيس الملوثات، الجسيمات الدقيقة (PM2.5 وPM10)، ثاني أكسيد الكربون، ثاني أكسيد النيتروجين، الحرارة، الرطوبة، والضغط.\nيعرض النتائج بمقياس من 1 إلى 10 لتقييم درجة الخطورة.\nالميزات:\n\n- اتصال لاسلكي عبر WiFi، Bluetooth وLoRa\n- تشغيل فائق الهدوء (<7 ديسبل)\n- يعمل عبر منفذ USB منخفض الطاقة\n- جاهز للاستخدام مباشرة (Plug & Play)"
+    },
+    "specifications": {
+      "en": ["Manufacturer: Scentroid", "Field: Environmental/Buildings"],
+      "ar": ["الشركة المصنعة: Scentroid", "المجال: بيئي / مباني"]
+    },
+    "applications": {
+      "en": [
+        "Indoor air quality monitoring",
+        "Residential buildings",
+        "Commercial offices",
+        "Schools and educational facilities",
+        "Environmental research"
+      ],
+      "ar": [
+        "مراقبة جودة الهواء الداخلي",
+        "المباني السكنية",
+        "المكاتب التجارية",
+        "المدارس والمؤسسات التعليمية",
+        "البحث البيئي"
+      ]
+    },
+    "manufacturer": "Scentroid",
+    "image": "/images/products/aqmini.png",
+    "category": "Air Quality Devices",
+    "specSheet": "/specs/aqmini.pdf"
+  },
+  {
+    "id": "sl50",
+    "name": {
+      "en": "SL50 Scentinal",
+      "ar": "SL50 Scentinal"
+    },
+    "description": {
+      "en": "Advanced Air Quality and Odour Monitoring Station supporting up to 20 customizable sensors for ppb-level gas detection. Features include self-cleaning, auto-calibration, AI-driven compensation, solar option, GPS, and multi-level data storage. Plug & play design with real-time SMS alerts and centralized monitoring platform.",
+      "ar": "محطة متقدمة لمراقبة جودة الهواء والروائح تدعم تركيب حتى 20 حساساً قابلاً للتخصيص لرصد الغازات بدقة عالية حتى مستوى أجزاء بالبليون (ppb). تشمل الميزات: تنظيف ذاتي، معايرة تلقائية، تعويض ذكي بدرجة الحرارة والرطوبة، دعم الطاقة الشمسية، نظام تتبع GPS، وتخزين متعدد المستويات. تصميم سهل التركيب مع تنبيهات فورية عبر الرسائل النصية ومنصة موحدة للمراقبة."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: Scentroid",
+        "Field: Environmental / Urban",
+        "Sensor Capacity: Up to 20 modules",
+        "Detection Level: ppb accuracy",
+        "Power Options: Mains or solar",
+        "Connectivity: SIM, GPS, LoRa, Cloud Sync",
+        "Data Storage: SD card, onboard server, cloud",
+        "AI Compensation Accuracy: Up to 96%",
+        "Installation: Plug & Play wall or pole mounted"
+      ],
+      "ar": [
+        "الشركة المصنعة: Scentroid",
+        "المجال: بيئي / حضري",
+        "عدد الحساسات: حتى 20 حساسًا",
+        "دقة الكشف: حتى مستوى ppb",
+        "خيارات الطاقة: كهرباء أو طاقة شمسية",
+        "الاتصال: شريحة SIM، GPS، LoRa، مزامنة سحابية",
+        "تخزين البيانات: بطاقة SD، خادم داخلي، خادم سحابي",
+        "دقة التعويض الذكي: حتى 96%",
+        "التركيب: تثبيت على الحائط أو العمود - جاهز للتشغيل فورًا"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Environmental Monitoring",
+        "Urban Air Quality Assessment",
+        "Industrial Emission Tracking",
+        "Odour Detection and Control",
+        "Green Building Compliance",
+        "Research and Development"
+      ],
+      "ar": [
+        "مراقبة البيئة",
+        "تقييم جودة الهواء الحضري",
+        "متابعة انبعاثات المصانع",
+        "كشف ورصد الروائح",
+        "الامتثال لمتطلبات المباني الخضراء",
+        "البحث والتطوير"
+      ]
+    },
+    "manufacturer": "Scentroid",
+    "image": "/images/products/sl50.jpg",
+    "category": "Air Quality Devices",
+    "specSheet": "/specs/sl50.pdf"
+  },
+  {
+    "id": "unitoc",
+    "name": { 
+      "en": "uniTOC", 
+      "ar": "uniTOC" 
+    },
+    "description": { 
+      "en": "Total Organic Carbon (TOC) Water Analyzer. Online TOC Analyzer using NDIR detection for precise results from groundwater to ultrapure water. Features include long-life UV lamp, dual sample inlets, self-cleaning reactor, and remote service.",
+      "ar": "محلل مياه الكربون العضوي الكلي (TOC). محلل TOC عبر الإنترنت يستخدم كشف NDIR لنتائج دقيقة من المياه الجوفية إلى المياه فائقة النقاء. يتميز بعمر طويل لمصباح الأشعة فوق البنفسجية، مدخلين للعينات، تنظيف ذاتي للمفاعل، وخدمة عن بعد."
+    },
+    "specifications": { 
+      "en": [
+        "Manufacturer: MembraPure",
+        "Field: Pure Water/Laboratory"
+      ], 
+      "ar": [
+        "الشركة المصنعة: MembraPure",
+        "المجال: مياه نقية / مختبرية"
+      ] 
+    },
+    "applications": {
+      "en": [
+        "Groundwater Quality Monitoring",
+        "Ultrapure Water Analysis",
+        "Laboratory Testing",
+        "Water Treatment Facilities",
+        "Pharmaceutical Water Monitoring"
+      ],
+      "ar": [
+        "مراقبة جودة المياه الجوفية",
+        "تحليل المياه فائقة النقاء",
+        "الاختبارات المختبرية",
+        "محطات معالجة المياه",
+        "مراقبة مياه الصناعات الدوائية"
+      ]
+    },
+    "manufacturer": "MembraPure",
+    "image": "/images/products/unitoc.png",
+    "category": "Water Analysis Instruments",
+    "specSheet": "/specs/unitoc.pdf"
+  },
+  {
+    "id": "minitoc-small",
+    "name": { 
+      "en": "miniTOC Small", 
+      "ar": "miniTOC Small" 
+    },
+    "description": { 
+      "en": "miniTOC by MembraPure is a compact TOC analyzer for pure and ultrapure water. It supports online and offline measurement using UV oxidation and conductivity detection. Fast, efficient, and user-friendly with remote service support.",
+      "ar": "جهاز miniTOC من MembraPure هو محلل TOC مدمج لتحليل المياه النقية وفائقة النقاء. يدعم القياس عبر الإنترنت أو العينات المباشرة باستخدام الأكسدة بالأشعة فوق البنفسجية وقياس التوصيلية. سريع وفعّال وسهل الاستخدام مع دعم للخدمة عن بُعد."
+    },
+    "specifications": { 
+      "en": [
+        "Manufacturer: MembraPure",
+        "Field: Laboratory",
+        "TOC Range: 0.5 – 1000 ppb",
+        "Detection: UV Oxidation & Conductivity",
+        "Sample Flow: ~14 mL/min",
+        "Compliance: USP <643>, EP 2.2.44, DIN EN 1484"
+      ],
+      "ar": [
+        "الشركة المصنعة: MembraPure",
+        "المجال: مختبري",
+        "نطاق TOC: من 0.5 إلى 1000 جزء بالبليون",
+        "طريقة الكشف: الأكسدة بالأشعة فوق البنفسجية وقياس التوصيلية",
+        "تدفق العينة: حوالي 14 مل/دقيقة",
+        "المعايير المعتمدة: USP <643>، EP 2.2.44، DIN EN 1484"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Ultrapure Water Quality Control",
+        "Pharmaceutical Water Testing",
+        "TOC Monitoring in Labs",
+        "Offline Grab Sample Analysis",
+        "Water Purification System Monitoring"
+      ],
+      "ar": [
+        "مراقبة جودة المياه فائقة النقاء",
+        "اختبارات مياه الصناعات الدوائية",
+        "مراقبة TOC في المختبرات",
+        "تحليل العينات المباشرة",
+        "مراقبة أنظمة تنقية المياه"
+      ]
+    },
+    "manufacturer": "MembraPure",
+    "image": "/images/products/minitoc-small.png",
+    "category": "Water Analysis Instruments",
+    "specSheet": "/specs/miniTOC-Analyzer.pdf"
+  },
+  {
+    "id": "ionus",
+    "name": {
+      "en": "IONUS",
+      "ar": "IONUS"
+    },
+    "description": {
+      "en": "IONUS by MembraPure is an ion chromatograph for the analysis of anions and cations using built-in conductivity detection. Compatible with all common IC columns and eluents. Suitable for water testing, research, and routine laboratory analysis.",
+      "ar": "IONUS من MembraPure هو جهاز كروماتوغرافيا أيونية لتحليل الأنيونات والكاتيونات باستخدام الكشف بالتوصيلية. متوافق مع أعمدة وإيليوتات الكروماتوغرافيا الشائعة، ومناسب لتحليل المياه، البحث والتطوير، والاستخدامات المخبرية اليومية."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: MembraPure",
+        "Field: Water Treatment",
+        "Method: Ion exchange chromatography with conductivity detection",
+        "Optional: UV detection",
+        "Noise: 0.02 µS/1 s",
+        "Range: 0 – 10 mS/cm",
+        "Reproducibility: 0.1% RSD at 100 µL/min"
+      ],
+      "ar": [
+        "الشركة المصنعة: MembraPure",
+        "المجال: معالجة المياه",
+        "الطريقة: كروماتوغرافيا تبادل أيوني مع كاشف توصيل مدمج",
+        "اختياري: كشف بالأشعة فوق البنفسجية (UV)",
+        "الضجيج: 0.02 µS/1 ثانية",
+        "النطاق: من 0 إلى 10 مللي سيمنز/سم",
+        "قابلية التكرار: 0.1% RSD عند 100 ميكرولتر/دقيقة"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Drinking Water Testing (EPA 300)",
+        "Anion and Cation Analysis",
+        "Environmental Monitoring",
+        "Laboratory Research and Development",
+        "Routine Water Quality Control"
+      ],
+      "ar": [
+        "تحليل مياه الشرب (وفقًا لـ EPA 300)",
+        "تحليل الأنيونات والكاتيونات",
+        "مراقبة بيئية",
+        "البحث والتطوير في المختبرات",
+        "التحكم الروتيني في جودة المياه"
+      ]
+    },
+    "manufacturer": "MembraPure",
+    "image": "/images/products/ionus.png",
+    "category": "Water Analysis Instruments",
+    "specSheet": "/specs/ionus.pdf"
+  },
+  {
+    "id": "ct-air",
+    "name": {
+      "en": "CT-air",
+      "ar": "CT-air"
+    },
+    "description": {
+      "en": "CTair by Scentroid is a smart, compact, and solar-powered ambient air quality analyzer. Offers high-accuracy PM1, PM2.5, and PM10 analysis using multi-beam laser and AI-based environmental compensation. Ideal for urban smart networks.",
+      "ar": "جهاز CTair من Scentroid هو محلل جودة هواء ذكي ومضغوط يعمل بالطاقة الشمسية. يوفر تحليلاً دقيقًا للجسيمات الدقيقة (PM1، PM2.5، PM10) باستخدام ليزر متعدد الشعاع مع تعويض بيئي مدعوم بالذكاء الاصطناعي. مثالي للشبكات الذكية في المدن."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: Scentroid",
+        "Field: Environmental/Urban",
+        "Particulate Analysis: PM1, PM2.5, PM10",
+        "Detection: Multi-beam laser with heated sampler",
+        "Power Option: Solar-powered",
+        "AI Compensation Accuracy: Up to 96%",
+        "Networking: Smart unit-to-unit coordination"
+      ],
+      "ar": [
+        "الشركة المصنعة: Scentroid",
+        "المجال: بيئي / حضري",
+        "تحليل الجسيمات: PM1، PM2.5، PM10",
+        "آلية القياس: ليزر متعدد الشعاع مع وحدة تسخين",
+        "الخيار الكهربائي: يعمل بالطاقة الشمسية",
+        "تعويض الذكاء الاصطناعي: دقة تصل إلى 96%",
+        "التشغيل الشبكي: تنسيق ذكي بين الوحدات"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Urban Air Pollution Mapping",
+        "Smart City Environmental Monitoring",
+        "Off-grid Air Quality Stations",
+        "Public Health Risk Assessment",
+        "Dust Monitoring in Construction Zones"
+      ],
+      "ar": [
+        "رسم خرائط تلوث الهواء الحضري",
+        "مراقبة بيئية في المدن الذكية",
+        "محطات جودة الهواء في المناطق النائية",
+        "تقييم مخاطر الصحة العامة",
+        "رصد الغبار في مناطق الإنشاءات"
+      ]
+    },
+    "manufacturer": "Scentroid",
+    "image": "/images/products/ct-air.png",
+    "category": "Gas Analyzers",
+    "specSheet": "/specs/ct-air.pdf"
+  },
+  {
+    "id": "thc-analyzer",
+    "name": {
+      "en": "Fixed Gas Detectors",
+      "ar": "أجهزة كشف الغازات الثابتة"
+    },
+    "description": {
+      "en": "CTI’s Fixed Gas Detectors are industrial-grade analyzers built for extreme environments. They detect hazardous gases like CO, CO₂, H₂S, NH₃, and NO₂. With built-in heaters and support for 4-20 mA/Modbus, they ensure safety and reliability.",
+      "ar": "أجهزة كشف الغازات الثابتة من CTI مصممة للبيئات الصناعية القاسية، وتكشف الغازات الخطرة مثل أول أكسيد الكربون، ثاني أكسيد الكربون، كبريتيد الهيدروجين، الأمونيا، وثاني أكسيد النيتروجين. مزودة بسخانات داخلية وتدعم مخارج 4-20 mA وModbus لضمان الأمان والموثوقية."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: CTI Gas",
+        "Field: Industrial",
+        "Gas Types: CO, CO₂, H₂S, NH₃, NO₂",
+        "Outputs: 4-20 mA and Modbus",
+        "Built-in Heater: Yes",
+        "Environmental Resistance: Heat, Cold, Moisture, Dust"
+      ],
+      "ar": [
+        "الشركة المصنعة: CTI Gas",
+        "المجال: صناعي",
+        "أنواع الغازات: أول أكسيد الكربون، ثاني أكسيد الكربون، كبريتيد الهيدروجين، الأمونيا، ثاني أكسيد النيتروجين",
+        "المخارج: 4-20 mA وModbus",
+        "سخان مدمج: نعم",
+        "التحمل البيئي: الحرارة، البرودة، الرطوبة، الغبار"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Food Processing Facilities",
+        "Cold Storage Warehouses",
+        "Bottling Plants",
+        "Fishing Vessels",
+        "Vehicle Depots",
+        "Ice Rinks"
+      ],
+      "ar": [
+        "منشآت تصنيع الأغذية",
+        "مخازن التبريد",
+        "مصانع التعبئة",
+        "السفن ومرافق الصيد",
+        "مراكز المركبات",
+        "صالات التزلج على الجليد"
+      ]
+    },
+    "manufacturer": "CTI Gas",
+    "image": "/images/products/thc-analyzer.png",
+    "category": "Gas Analyzers",
+    "specSheet": "/specs/thc-analyzer.pdf"
+  },
+  {
+    "id": "aquasafe-msl50",
+    "name": {
+      "en": "AquaSafe MSL50",
+      "ar": "AquaSafe MSL50"
+    },
+    "description": {
+      "en": "The AquaSafe MSL50 by Wagtech Projects is a portable microbiological water safety lab featuring dual incubators with independent temperature control, PetriLok® cartridge system, and a 170W rechargeable battery in a waterproof case. Ideal for expanding water testing to microbiological analysis.",
+      "ar": "جهاز AquaSafe MSL50 من Wagtech Projects هو مختبر متنقل لتحاليل السلامة الميكروبيولوجية في المياه، يضم حاضنتين بدرجة حرارة مستقلة، ونظام PetriLok® لتخزين أطباق بتري، وبطارية قابلة لإعادة الشحن بقوة 170 واط داخل حقيبة مقاومة للماء. مثالي لتوسيع نطاق فحوصات المياه لتشمل التحاليل الميكروبيولوجية."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: Wagtech Projects",
+        "Field: Environmental/Emergency",
+        "Dual independent incubators",
+        "PetriLok® cartridge for petri dish stacking",
+        "170W high-capacity rechargeable battery",
+        "Waterproof carry case with docking station",
+        "Ideal for field microbiological testing"
+      ],
+      "ar": [
+        "الشركة المصنعة: Wagtech Projects",
+        "المجال: بيئي / طوارئ",
+        "حاضنتان بدرجة حرارة مستقلة",
+        "تقنية PetriLok® لتكديس أطباق بتري",
+        "بطارية قابلة لإعادة الشحن بقوة 170 واط",
+        "حقيبة محمولة مقاومة للماء مع قاعدة تثبيت",
+        "مثالي للفحوصات الميكروبيولوجية الميدانية"
+      ]
+    },
+    "applications": {
+      "en": [
+        "On-site microbiological water testing",
+        "Emergency response water monitoring",
+        "Field research and health inspections",
+        "Rural water safety verification"
+      ],
+      "ar": [
+        "تحليل ميكروبيولوجي ميداني للمياه",
+        "مراقبة جودة المياه في حالات الطوارئ",
+        "أبحاث ميدانية وتفتيشات صحية",
+        "التحقق من سلامة مياه الشرب في المناطق النائية"
+      ]
+    },
+    "manufacturer": "Wagtech Projects",
+    "image": "/images/products/aquasafe-msl50.png",
+    "category": "Environmental Monitoring Instruments",
+    "specSheet": "/specs/aquasafe-msl50.pdf"
+  },
+  {
+    "id": "arsenometer",
+    "name": {
+      "en": "ARSENOMETER HMAS100",
+      "ar": "ARSENOMETER HMAS100"
+    },
+    "description": {
+      "en": "Portable field kit for arsenic testing in water. Detects as low as 1 ppb of Arsenic within 10 minutes. Differentiates between As(III) and As(V) without hazardous chemicals like mercuric bromide. Includes reagents for 200 tests and generates no plastic waste.",
+      "ar": "عدة ميدانية محمولة لاختبار الزرنيخ في المياه. تكشف حتى 1 جزء في البليون خلال 10 دقائق، وتُميز بين الزرنيخ الثلاثي (As III) والخماسي (As V) دون استخدام مواد خطرة مثل بروميد الزئبق. تحتوي على كواشف تكفي لـ 200 اختبار ولا تنتج نفايات بلاستيكية."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: Wagtech Projects",
+        "Field: Environmental",
+        "Detection Limit: 1 ppb",
+        "Arsenic Speciation: As(III) and As(V)",
+        "Time to Result: <10 minutes",
+        "No hazardous chemicals used",
+        "200 tests per kit",
+        "Plastic-free testing process",
+        "Portable and waterproof design"
+      ],
+      "ar": [
+        "الشركة المصنعة: Wagtech Projects",
+        "المجال: بيئي",
+        "حد الكشف: 1 جزء في البليون (ppb)",
+        "تمييز الزرنيخ: الزرنيخ الثلاثي (As III) والخماسي (As V)",
+        "مدة الحصول على النتيجة: أقل من 10 دقائق",
+        "لا يتم استخدام مواد كيميائية خطرة",
+        "يحتوي على كواشف لـ 200 اختبار",
+        "عملية اختبار خالية من النفايات البلاستيكية",
+        "تصميم محمول ومقاوم للماء"
+      ]
+    },
+    "applications": {
+      "en": [
+        "On-site water quality monitoring",
+        "Field arsenic contamination surveys",
+        "Emergency drinking water testing",
+        "Rural water safety evaluations"
+      ],
+      "ar": [
+        "مراقبة جودة المياه في الموقع",
+        "استطلاعات ميدانية لتلوث الزرنيخ",
+        "اختبار مياه الشرب في حالات الطوارئ",
+        "تقييم سلامة المياه في المناطق الريفية"
+      ]
+    },
+    "manufacturer": "Wagtech Projects",
+    "image": "/images/products/arsenometer.png",
+    "category": "Environmental Monitoring Instruments",
+    "specSheet": "/specs/arsenometer.pdf"
+  },
+  {
+    "id": "velos-v3",
+    "name": {
+      "en": "VELOS V3",
+      "ar": "VELOS V3"
+    },
+    "description": {
+      "en": "VELOS V3 is a 25 kg Group II unmanned helicopter UAV with triple-blade main and tail rotors, carbon fiber frame, and patented twin transmission system for exceptional reliability, safety, and performance in industrial and engineering applications.",
+      "ar": "VELOS V3 هي طائرة مروحية بدون طيار من الفئة الثانية بوزن 25 كجم، مزودة بمروحة رئيسية وثانوية ثلاثية الشفرات، وهيكل من ألياف الكربون، ونظام نقل حركة مزدوج حاصل على براءة اختراع يوفر موثوقية وأمان عاليين للتطبيقات الصناعية والهندسية."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: Mena3D",
+        "Field: Industrial/Engineering",
+        "Rotor Configuration: Triple-blade main and tail",
+        "Power: 4x 48VDC lithium polymer batteries",
+        "Frame: Carbon fiber fuselage with dual canopies",
+        "Landing Gear: 3-leg system",
+        "Transmission: Patented twin transmission for redundancy"
+      ],
+      "ar": [
+        "الشركة المصنعة: Mena3D",
+        "المجال: صناعي / هندسي",
+        "تكوين المراوح: ثلاثية الشفرات للرئيسية والثانوية",
+        "الطاقة: 4 بطاريات ليثيوم بوليمر بجهد 48VDC",
+        "الهيكل: ألياف كربون مع غطاء أمامي وخلفي",
+        "نظام الهبوط: ثلاثي الأرجل",
+        "نقل الحركة: نظام مزدوج حاصل على براءة اختراع"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Aerial inspection and surveillance",
+        "Engineering surveys and mapping",
+        "Industrial infrastructure monitoring",
+        "Payload testing and delivery research"
+      ],
+      "ar": [
+        "التفتيش والمراقبة الجوية",
+        "المسح الهندسي ورسم الخرائط",
+        "مراقبة البنية التحتية الصناعية",
+        "اختبار الحمولة والبحث في تقنيات التوصيل"
+      ]
+    },
+    "manufacturer": "Mena3D",
+    "image": "/images/products/velos-v3.png",
+    "category": "Unmanned Aerial Vehicles (UAV)",
+    "specSheet": "/specs/velos-v3.pdf"
+  },
+  {
+    "id": "dr1000",
+    "name": {
+      "en": "DR1000",
+      "ar": "DR1000"
+    },
+    "description": {
+      "en": "The DR1000 is a drone-based air quality and environmental monitoring system designed to safely collect and analyze air samples in hazardous or remote locations. Equipped with real-time data access, thermal imaging, and a long battery life, it supports diverse industrial and environmental applications.",
+      "ar": "DR1000 هو نظام طائر لمراقبة جودة الهواء والبيئة، مصمم لجمع وتحليل العينات الجوية بأمان من أماكن خطرة أو يصعب الوصول إليها. مزود بإمكانية الوصول الفوري للبيانات، وكاميرا حرارية، وبطارية طويلة العمر، ويخدم تطبيقات صناعية وبيئية متنوعة."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: Scentroid",
+        "Field: Industrial/Optical",
+        "Altitude Reach: Up to 150 meters for sampling",
+        "Battery Life: Up to 3 hours continuous operation",
+        "Data Access: Real-time via LoRa tablet, cloud backup",
+        "Sampling: Hazardous and hard-to-reach environments",
+        "Extras: Optional thermal camera, GPS-enabled"
+      ],
+      "ar": [
+        "الشركة المصنعة: Scentroid",
+        "المجال: صناعي / بصري",
+        "الارتفاع: يصل إلى 150 متر لأخذ العينات",
+        "مدة البطارية: حتى 3 ساعات من التشغيل المتواصل",
+        "الوصول للبيانات: لحظي عبر جهاز لوحي بتقنية LoRa وتخزين سحابي",
+        "التحليل: عينات من بيئات خطرة أو صعبة الوصول",
+        "إضافات: كاميرا حرارية اختيارية، دعم GPS"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Fugitive and flare emission monitoring",
+        "Oil pipeline leak detection",
+        "Landfill methane and odor tracking",
+        "Urban air quality assessments",
+        "Military and emergency hazardous sampling",
+        "Remote industrial zone monitoring"
+      ],
+      "ar": [
+        "مراقبة الانبعاثات المتسربة وانبعاثات الشعلات",
+        "كشف التسربات في خطوط أنابيب النفط",
+        "رصد الميثان والروائح في مواقع النفايات",
+        "تحليل جودة الهواء في المناطق الحضرية",
+        "أخذ عينات خطرة في حالات الطوارئ العسكرية",
+        "مراقبة المناطق الصناعية النائية"
+      ]
+    },
+    "manufacturer": "Scentroid",
+    "image": "/images/products/dr1000.png",
+    "category": "Unmanned Aerial Vehicles (UAV)",
+    "specSheet": "/specs/dr1000.pdf"
+  },
+  {
+    "id": "toc-laboratory-systems",
+    "name": {
+      "en": "TOC Laboratory Systems",
+      "ar": "أنظمة TOC المخبرية"
+    },
+    "description": {
+      "en": "Comprehensive TOC lab systems for analyzing a wide range of water qualities. Supports ultra pure water to wastewater applications with UV oxidation and advanced detection technologies.",
+      "ar": "أنظمة TOC شاملة لتحليل مجموعة واسعة من جودة المياه. تدعم التطبيقات من المياه النقية جدًا إلى مياه الصرف، باستخدام الأكسدة بالأشعة فوق البنفسجية وتقنيات كشف متقدمة."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: MembraPure",
+        "Field: Laboratory",
+        "UV Oxidation Method",
+        "Detection: Conductivity (miniTOC) / NDIR (uniTOC)",
+        "Application range: <2 µS/cm up to 20 ppm TOC",
+        "Large touchscreen with intuitive software",
+        "Flexible installation (benchtop, wall-mounted, integrated)",
+        "Offline and continuous monitoring modes",
+        "Up to 12 months of data tracking"
+      ],
+      "ar": [
+        "الشركة المصنعة: MembraPure",
+        "المجال: مختبري",
+        "طريقة الأكسدة: الأشعة فوق البنفسجية",
+        "الكشف: الموصلية (miniTOC) / NDIR (uniTOC)",
+        "نطاق التطبيق: من أقل من 2 ميكروسيمنز/سم حتى 20 جزء بالمليون TOC",
+        "شاشة لمس كبيرة مع برنامج سهل الاستخدام",
+        "خيارات تركيب مرنة (سطحية، جدارية، مدمجة)",
+        "أنماط تشغيل مستمرة أو عينات لحظية",
+        "تتبع بيانات حتى 12 شهر"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Pharmaceutical water purity verification",
+        "Power plant ultrapure water monitoring",
+        "Industrial wastewater TOC analysis",
+        "Laboratory water quality control",
+        "Regulatory TOC compliance (USP <643>, EP 2.2.44)"
+      ],
+      "ar": [
+        "التحقق من نقاء المياه في الصناعات الدوائية",
+        "مراقبة المياه النقية جدًا في محطات الطاقة",
+        "تحليل TOC لمياه الصرف الصناعي",
+        "مراقبة جودة المياه في المختبرات",
+        "الامتثال التنظيمي لمعايير TOC (مثل USP <643>، EP 2.2.44)"
+      ]
+    },
+    "manufacturer": "MembraPure",
+    "image": "/images/products/toc-laboratory-systems.png",
+    "category": "Lab Instruments",
+    "specSheet": "/specs/toc-laboratory-systems.pdf"
+  },
+  {
+    "id": "aracus",
+    "name": {
+      "en": "ARACUS",
+      "ar": "ARACUS"
+    },
+    "description": {
+      "en": "Advanced amino acid analyzer with dual-pump configuration, high sample throughput, and high sensitivity.",
+      "ar": "محلل أحماض أمينية متقدم بتكوين مزدوج للمضخات، وسعة تحليل عالية للعينة، وحساسية مرتفعة."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: MembraPure",
+        "Field: Laboratory",
+        "Dual pump system for separate eluent and reagent lines",
+        "Cooled autosampler with 96 sample capacity",
+        "Maintenance-free LED detectors",
+        "Low eluent consumption",
+        "Ninhydrin-based post-column derivatization",
+        "Optional OPA reagent for fluorescence detection",
+        "Reproducibility: < 0.3% RSD (retention time), ~1% RSD (area)",
+        "Detection limit: < 2 nmol/mL"
+      ],
+      "ar": [
+        "الشركة المصنعة: MembraPure",
+        "المجال: مختبري",
+        "نظام مضختين لتشغيل مستقل لخطوط الكواشف والمحاليل",
+        "جهاز تغذية آلية مبردة بسعة 96 عينة",
+        "كواشف LED خالية من الصيانة",
+        "استهلاك منخفض للمحاليل",
+        "مشتقة بعد العمود باستخدام النينهيدرين",
+        "إمكانية استخدام كاشف OPA للكشف الفلوري",
+        "تكرار النتائج: أقل من 0.3% RSD (زمن الاحتجاز)، ~1% RSD (المساحة)",
+        "حد الكشف: أقل من 2 نانومول/مل"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Clinical diagnostics",
+        "Food and beverage quality control",
+        "Pharmaceutical and biotechnological research",
+        "Protein and peptide analysis"
+      ],
+      "ar": [
+        "التشخيصات السريرية",
+        "مراقبة جودة الأغذية والمشروبات",
+        "البحوث الصيدلانية والتقنية الحيوية",
+        "تحليل البروتينات والببتيدات"
+      ]
+    },
+    "manufacturer": "MembraPure",
+    "image": "/images/products/aracus.png",
+    "category": "Lab Instruments",
+    "specSheet": "/specs/aracus.pdf"
+  },
+  {
+    "id": "sd34-1",
+    "name": {
+      "en": "SD34-1",
+      "ar": "SD34-1"
+    },
+    "description": {
+      "en": "Lab-grade electric heating mantle with uniform temperature distribution and precise control for laboratory use.",
+      "ar": "غلاف تسخين كهربائي مخصص للمختبرات بتوزيع حراري منتظم وتحكم دقيق في درجة الحرارة."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: TJTZM",
+        "Field: Laboratory",
+        "Uniform heating across flask surface",
+        "Precise temperature control for sensitive applications",
+        "Ideal for distillation, reflux, and heating organic solvents",
+        "Durable and safe construction for long-term lab use"
+      ],
+      "ar": [
+        "الشركة المصنعة: TJTZM",
+        "المجال: مختبري",
+        "توزيع حراري موحد على سطح الدورق",
+        "تحكم دقيق في درجة الحرارة لتطبيقات حساسة",
+        "مثالي للتقطير والتكثيف وتسخين المذيبات العضوية",
+        "تصميم آمن ومتين للاستخدام المستمر في المختبرات"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Solvent distillation",
+        "Sample heating and evaporation",
+        "Chemical synthesis",
+        "Reflux reactions"
+      ],
+      "ar": [
+        "تقطير المذيبات",
+        "تسخين وتبخير العينات",
+        "التحضير الكيميائي",
+        "تفاعلات الارتجاع"
+      ]
+    },
+    "manufacturer": "TJTZM",
+    "image": "/images/products/sd34-1.png",
+    "category": "Electric Heaters",
+    "specSheet": "/specs/sd34-1.pdf"
+  },
+  {
+    "id": "mp-46-8",
+    "name": {
+      "en": "MP-46-8",
+      "ar": "MP-46-8"
+    },
+    "description": {
+      "en": "Circulating Water Heating System for precise and uniform temperature control across multiple lab or industrial applications.",
+      "ar": "نظام تسخين مياه دوار للتحكم الدقيق والمنتظم في درجة الحرارة عبر تطبيقات مختبرية أو صناعية متعددة."
+    },
+    "specifications": {
+      "en": [
+        "Manufacturer: TJTZM",
+        "Field: Laboratory/Industrial",
+        "Uniform water circulation system",
+        "Multi-position temperature control",
+        "Stainless steel internal tank",
+        "Supports heating and stirring simultaneously",
+        "Ideal for biological, chemical, and industrial lab use"
+      ],
+      "ar": [
+        "الشركة المصنعة: TJTZM",
+        "المجال: مختبري / صناعي",
+        "نظام تدوير مياه موحد",
+        "تحكم بدرجة الحرارة في عدة نقاط",
+        "خزان داخلي من الستانلس ستيل",
+        "يدعم التسخين والتحريك في آنٍ واحد",
+        "مثالي للتطبيقات البيولوجية والكيميائية والمخبرية الصناعية"
+      ]
+    },
+    "applications": {
+      "en": [
+        "Heating biological and chemical samples",
+        "Maintaining reaction conditions",
+        "Industrial material testing",
+        "Water bath experiments"
+      ],
+      "ar": [
+        "تسخين العينات البيولوجية والكيميائية",
+        "الحفاظ على ظروف التفاعل",
+        "اختبار المواد في البيئات الصناعية",
+        "تجارب حمام الماء"
+      ]
+    },
+    "manufacturer": "TJTZM",
+    "image": "/images/products/mp-46-8.png",
+    "category": "Electric Heaters",
+    "specSheet": "/specs/mp-46-8.pdf"
+  }  
+]

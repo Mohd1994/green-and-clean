@@ -1,0 +1,135 @@
+[
+  {
+    "id": "graywolf",
+    "name": {
+      "en": "GrayWolf Sensing Solutions",
+      "ar": "جراي وولف سينسينغ سوليوشنز"
+    },
+    "description": {
+      "en": "Advanced air quality measurement devices for indoor and outdoor environments.",
+      "ar": "أجهزة متقدمة لقياس جودة الهواء في البيئات الداخلية والخارجية."
+    },
+    "type": {
+      "en": "Strategic Partner",
+      "ar": "شريك استراتيجي"
+    },
+    "logo": "/images/partners/graywolf.png",
+    "website": "https://graywolfsensing.com",
+    "since": 2018,
+    "featured": true
+  },
+  {
+    "id": "scentroid",
+    "name": {
+      "en": "Scentroid (IDES Canada)",
+      "ar": "سنترويد (IDES كندا)"
+    },
+    "description": {
+      "en": "Environmental odor analysis and air quality monitoring solutions.",
+      "ar": "حلول تحليل الروائح البيئية ومراقبة جودة الهواء."
+    },
+    "type": {
+      "en": "Environmental Partners",
+      "ar": "شريك استراتيجي"
+    },
+    "logo": "/images/partners/scentroid.png",
+    "website": "https://scentroid.com",
+    "since": 2019,
+    "featured": true
+  },
+  {
+    "id": "wagtech",
+    "name": {
+      "en": "Wagtech Projects (PCT)",
+      "ar": "واجتك بروجكتس (PCT)"
+    },
+    "description": {
+      "en": "Field water testing kits and portable lab equipment for environmental analysis.",
+      "ar": "معدات اختبار ميدانية للمياه ومعدات مختبرية محمولة للتحليل البيئي."
+    },
+    "type": {
+      "en": "Strategic Partner",
+      "ar": "شريك استراتيجي"
+    },
+    "logo": "/images/partners/wagtech.png",
+    "website": "https://www.wagtechprojects.com/",
+    "since": 2017,
+    "featured": true
+  },
+  {
+    "id": "membrapure",
+    "name": {
+      "en": "MembraPure GmbH",
+      "ar": "ميمبرا بيور"
+    },
+    "description": {
+      "en": "Pure water analysis and Total Organic Carbon (TOC) measurement systems.",
+      "ar": "أنظمة تحليل المياه النقية وقياس الكربون العضوي الكلي (TOC)."
+    },
+    "type": {
+      "en": "Strategic Partner",
+      "ar": "شريك استراتيجي"
+    },
+    "logo": "/images/partners/membrapure.png",
+    "website": "https://www.membrapure.de",
+    "since": 2020,
+    "featured": true
+  },
+  {
+    "id": "mena3d",
+    "name": {
+      "en": "Mena3D",
+      "ar": "مينا 3D"
+    },
+    "description": {
+      "en": "Industrial measurement technologies, 3D scanners, and optical interferometry.",
+      "ar": "تقنيات القياس الصناعي، وماسحات ثلاثية الأبعاد، وتداخل بصري."
+    },
+    "type": {
+      "en": "Technology Partner",
+      "ar": "شريك تكنولوجي"
+    },
+    "logo": "/images/partners/mena3d.png",
+    "website": "https://mena3d.com",
+    "since": 2019,
+    "featured": false
+  },
+  {
+    "id": "cti-gas",
+    "name": {
+      "en": "CTI Gas",
+      "ar": "سي تي آي جاز"
+    },
+    "description": {
+      "en": "Industrial gas analyzers and hydrocarbon monitoring systems.",
+      "ar": "محللات غازات صناعية وأنظمة مراقبة الهيدروكربونات."
+    },
+    "type": {
+      "en": "Technology Partner",
+      "ar": "شريك تكنولوجي"
+    },
+    "logo": "/images/partners/cti-gas.png",
+    "website": "https://ctigas.com",
+    "since": 2020,
+    "featured": false
+  },
+  {
+    "id": "tjtzm",
+    "name": {
+      "en": "TJTZM",
+      "ar": "تي جي تي زد إم"
+    },
+    "description": {
+      "en": "Electric industrial and laboratory heaters for controlled environments.",
+      "ar": "سخانات كهربائية صناعية ومخبرية للبيئات المُتحكم بها."
+    },
+    "type": {
+      "en": "Lab & Industrial Equipment Partner",
+      "ar": "شريك المعدات المخبرية والصناعية"
+    },
+    "logo": "/images/partners/tjtzm.png",
+    "website": "https://tjtzm.com",
+    "since": 2021,
+    "featured": false
+  }
+]

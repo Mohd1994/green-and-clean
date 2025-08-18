@@ -1,0 +1,557 @@
+/* LoadingScreen.css - تصميم Premium وفخم بناءً على التصميم الأصلي */
+
+/* شاشة التحميل الرئيسية */
+.loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(135deg, #0f2027 0%, #203a43 35%, #2c5364 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  overflow: hidden;
+  color: #ffffff;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+/* حاوية التحميل الفخمة */
+.loading-container {
+  text-align: center;
+  max-width: 500px;
+  padding: 3rem 2.5rem;
+  position: relative;
+  z-index: 2;
+  backdrop-filter: blur(20px);
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 25px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 
+    0 25px 50px rgba(0, 0, 0, 0.25),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+/* حاوية الشعار */
+.logo-container {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 2.5rem;
+}
+
+.logo-wrapper {
+  position: relative;
+  z-index: 3;
+}
+
+/* حاوية شفافة إضافية للشعار */
+.logo-transparent-container {
+  position: relative;
+  display: inline-block;
+  background: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* شعار الشركة - تصميم Premium */
+.company-logo {
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: contain !important;
+  
+  /* إزالة جميع أنواع الخلفيات المحتملة */
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
+  
+  /* إزالة الحدود والحشو */
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  
+  /* تحسين العرض */
+  display: block !important;
+  
+  /* إزالة أي ظلال قد تسبب مظهر مربع */
+  box-shadow: none !important;
+  
+  /* تحسين الشفافية */
+  opacity: 1 !important;
+  
+  /* تحسين المزج مع الخلفية */
+  mix-blend-mode: normal !important;
+  
+  /* تأثيرات بصرية فخمة */
+  filter: 
+    drop-shadow(0 8px 25px rgba(0, 0, 0, 0.15))
+    drop-shadow(0 0 40px rgba(34, 197, 94, 0.1)) !important;
+  
+  /* منع أي تأثيرات إضافية */
+  outline: none !important;
+  
+  /* تحسين الموضع */
+  position: relative;
+  z-index: 3;
+  
+  /* تحسين الانتقالات */
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  
+  /* تحسين العرض للصور الشفافة */
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+  
+  /* إزالة أي خلفية قد يضيفها Next.js */
+  -webkit-background-clip: initial !important;
+  background-clip: initial !important;
+}
+
+/* تأكيد إضافي لإزالة الخلفية من Next.js Image */
+.company-logo img,
+#loading-logo,
+.logo-transparent-container > span,
+.logo-transparent-container > span > img {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* الدائرة الدوارة الأنيقة */
+.spinner-ring {
+  position: absolute;
+  top: -25px;
+  left: -25px;
+  width: 250px;
+  height: 250px;
+  border: 2px solid transparent;
+  border-top: 2px solid rgba(34, 197, 94, 0.8);
+  border-right: 2px solid rgba(34, 197, 94, 0.6);
+  border-radius: 50%;
+  z-index: 1;
+  filter: drop-shadow(0 0 15px rgba(34, 197, 94, 0.3));
+}
+
+/* الدائرة النابضة الفخمة */
+.spinner-ring-pulse {
+  position: absolute;
+  top: -35px;
+  left: -35px;
+  width: 270px;
+  height: 270px;
+  border: 1px solid rgba(34, 197, 94, 0.25);
+  border-radius: 50%;
+  z-index: 1;
+  filter: blur(1px);
+}
+
+/* نص التحميل الأنيق */
+.loading-text {
+  margin-bottom: 2.5rem;
+  color: #ffffff;
+}
+
+.loading-text h2 {
+  font-size: 1.9rem;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  background: linear-gradient(135deg, #ffffff 0%, #e0e7ff 50%, #c7d2fe 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  letter-spacing: 0.3px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* النقاط المتحركة الأنيقة */
+.loading-dots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 15px 0;
+}
+
+.loading-dots .dot {
+  width: 8px;
+  height: 8px;
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 10px rgba(34, 197, 94, 0.4);
+}
+
+.loading-text p {
+  font-size: 1.05rem;
+  color: rgba(255, 255, 255, 0.85);
+  opacity: 0.9;
+  margin-top: 0.8rem;
+  font-weight: 300;
+  letter-spacing: 0.2px;
+}
+
+/* حاوية شريط التقدم الفخمة */
+.progress-container {
+  width: 100%;
+  margin-top: 2rem;
+}
+
+/* شريط التقدم الأنيق */
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 
+    inset 0 2px 4px rgba(0, 0, 0, 0.15),
+    0 1px 2px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+  position: relative;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.progress-bar::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  bottom: -1px;
+  background: linear-gradient(90deg, 
+    rgba(34, 197, 94, 0.1), 
+    transparent, 
+    rgba(34, 197, 94, 0.1));
+  border-radius: 21px;
+  z-index: -1;
+  animation: progressGlow 3s ease-in-out infinite;
+}
+
+@keyframes progressGlow {
+  0%, 100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+/* ملء شريط التقدم الفخم */
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, 
+    #22c55e 0%, 
+    #16a34a 50%, 
+    #15803d 100%);
+  border-radius: 20px;
+  transition: width 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  position: relative;
+  overflow: hidden;
+  box-shadow: 
+    0 0 20px rgba(34, 197, 94, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+/* تأثير لامع على شريط التقدم */
+.progress-fill::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, 
+    transparent, 
+    rgba(255, 255, 255, 0.3), 
+    transparent);
+  animation: shimmer 2.5s infinite;
+}
+
+.progress-fill::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, 
+    transparent 0%, 
+    rgba(255, 255, 255, 0.1) 25%, 
+    rgba(255, 255, 255, 0.2) 50%, 
+    rgba(255, 255, 255, 0.1) 75%, 
+    transparent 100%);
+  animation: progressWave 4s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    left: -100%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+@keyframes progressWave {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* نسبة التقدم الأنيقة */
+.progress-percentage {
+  font-size: 1.1rem;
+  color: #22c55e;
+  font-weight: 600;
+  text-align: center;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* تأثير الجسيمات الأنيق في الخلفية */
+.particles-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(2px 2px at 20px 30px, rgba(34, 197, 94, 0.4), transparent),
+    radial-gradient(2px 2px at 40px 70px, rgba(34, 197, 94, 0.3), transparent),
+    radial-gradient(1px 1px at 90px 40px, rgba(34, 197, 94, 0.4), transparent),
+    radial-gradient(1px 1px at 130px 80px, rgba(34, 197, 94, 0.3), transparent),
+    radial-gradient(2px 2px at 160px 30px, rgba(34, 197, 94, 0.4), transparent);
+  background-repeat: repeat;
+  background-size: 250px 120px;
+  pointer-events: none;
+  opacity: 0.6;
+  z-index: 1;
+}
+
+/* تأثيرات الهوفر الأنيقة */
+.loading-container:hover .company-logo {
+  transform: scale(1.02);
+  filter: 
+    drop-shadow(0 12px 30px rgba(0, 0, 0, 0.2))
+    drop-shadow(0 0 50px rgba(34, 197, 94, 0.15));
+}
+
+/* إضافة الجملة التي تظهر بعد شريط التقدم */
+.tagline-container {
+  margin-top: 2rem;
+  padding: 0 1rem;
+}
+
+.loading-typewriter {
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 300;
+  line-height: 1.5;
+  opacity: 0.9;
+  font-style: italic;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  letter-spacing: 0.2px;
+}
+
+/* تصميم متجاوب */
+@media (max-width: 768px) {
+  .loading-container {
+    padding: 2rem 1.5rem;
+    max-width: 400px;
+    margin: 0 1rem;
+  }
+  
+  .company-logo {
+    width: 160px !important;
+    height: 160px !important;
+  }
+  
+  .spinner-ring {
+    width: 210px;
+    height: 210px;
+    top: -25px;
+    left: -25px;
+  }
+  
+  .spinner-ring-pulse {
+    width: 230px;
+    height: 230px;
+    top: -35px;
+    left: -35px;
+  }
+  
+  .loading-text h2 {
+    font-size: 1.6rem;
+  }
+  
+  .loading-text p {
+    font-size: 0.95rem;
+  }
+  
+  .particles-background {
+    background-size: 200px 100px;
+  }
+  
+  .loading-typewriter {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .loading-container {
+    padding: 3rem 1rem;
+    max-width: 340px;
+  }
+  
+  .company-logo {
+    width: 140px !important;
+    height: 140px !important;
+  }
+  
+  .spinner-ring {
+    width: 190px;
+    height: 190px;
+    top: -25px;
+    left: -25px;
+  }
+  
+  .spinner-ring-pulse {
+    width: 210px;
+    height: 210px;
+    top: -35px;
+    left: -35px;
+  }
+  
+  .loading-text h2 {
+    font-size: 1.4rem;
+  }
+  
+  .loading-typewriter {
+    font-size: 0.8rem;
+  }
+  
+  .progress-percentage {
+    font-size: 1rem;
+  }
+}
+
+/* تحسينات للأجهزة عالية الدقة */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .company-logo {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+  
+  .progress-fill {
+    background: linear-gradient(90deg, 
+      #22c55e 0%, 
+      #16a34a 25%, 
+      #15803d 50%, 
+      #166534 75%, 
+      #14532d 100%);
+  }
+}
+
+/* تقليل الحركة للمستخدمين الذين يفضلون ذلك */
+@media (prefers-reduced-motion: reduce) {
+  .spinner-ring,
+  .spinner-ring-pulse,
+  .company-logo,
+  .loading-text h2,
+  .progress-fill::before,
+  .progress-fill::after,
+  .particles-background,
+  .loading-dots .dot,
+  .progress-bar::before {
+    animation: none !important;
+  }
+  
+  .loading-screen {
+    transition: opacity 0.3s ease;
+  }
+  
+  .logo-motion-wrapper {
+    animation: none !important;
+  }
+}
+
+/* تحسينات الأداء */
+.loading-screen *,
+.loading-screen *::before,
+.loading-screen *::after {
+  will-change: transform, opacity;
+}
+
+.spinner-ring,
+.spinner-ring-pulse,
+.progress-fill,
+.particles-background {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* حل إضافي لمشكلة Next.js Image في الوضع الداكن */
+[data-theme="dark"] .company-logo,
+.dark .company-logo {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+/* حل لمشكلة الخلفية في Safari */
+@supports (-webkit-appearance: none) {
+  .company-logo {
+    -webkit-background-clip: initial !important;
+    background-clip: initial !important;
+    -webkit-mask: none !important;
+    mask: none !important;
+  }
+}
+
+/* تحسينات إضافية للشفافية */
+.logo-motion-wrapper,
+.logo-motion-wrapper > div,
+.logo-motion-wrapper > div > div {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* تأثير إضافي للحاوية */
+.loading-container::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  right: -1px;
+  bottom: -1px;
+  background: linear-gradient(135deg, 
+    rgba(255, 255, 255, 0.05), 
+    transparent, 
+    rgba(255, 255, 255, 0.05));
+  border-radius: 26px;
+  z-index: -1;
+  opacity: 0.8;
+}
+
+/* تحسين الخطوط */
+.loading-text h2,
+.progress-percentage,
+.loading-typewriter {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

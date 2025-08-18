@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ncec",
+    "name": {
+      "en": "National Center for Environmental Compliance (NCEC)",
+      "ar": "الهيئة العامة للأرصاد وحماية البيئة"
+    },
+    "description": {
+      "en": "National environmental regulator responsible for air quality and environmental monitoring across Saudi Arabia.",
+      "ar": "الجهة التنظيمية البيئية الوطنية المسؤولة عن جودة الهواء والرصد البيئي في المملكة العربية السعودية."
+    },
+    "industry": {
+      "en": "Environmental Monitoring",
+      "ar": "الرصد البيئي"
+    },
+    "logo": "/images/clients/ncec.png",
+    "website": "https://ncec.gov.sa",
+    "since": 2016,
+    "featured": true
+  },
+  {
+    "id": "saso",
+    "name": {
+      "en": "Saudi Standards, Metrology and Quality Organization (SASO)",
+      "ar": "الهيئة السعودية للمواصفات والمقاييس"
+    },
+    "description": {
+      "en": "Government authority responsible for technical standards, quality control, and laboratory services in Saudi Arabia.",
+      "ar": "هيئة حكومية مسؤولة عن وضع المواصفات الفنية وضبط الجودة والخدمات المختبرية في المملكة العربية السعودية."
+    },
+    "industry": {
+      "en": "Industrial Hygiene & Safety",
+      "ar": "السلامة الصناعية"
+    },
+    "logo": "/images/clients/saso.png",
+    "website": "https://saso.gov.sa",
+    "since": 2017,
+    "featured": true
+  },
+  {
+    "id": "kacst",
+    "name": {
+      "en": "King Abdulaziz City for Science and Technology (KACST)",
+      "ar": "مدينة الملك عبدالعزيز للعلوم والتقنية"
+    },
+    "description": {
+      "en": "National science and technology institution supporting research and innovation.",
+      "ar": "مؤسسة وطنية للعلوم والتقنية تدعم الأبحاث والابتكار."
+    },
+    "industry": {
+      "en": "Research & Environmental Labs",
+      "ar": "الأبحاث والمختبرات البيئية"
+    },
+    "logo": "/images/clients/kacst.png",
+    "website": "https://kacst.gov.sa/",
+    "since": 2015,
+    "featured": true
+  },
+  {
+    "id": "gami",
+    "name": {
+      "en": "General Authority for Military Industries (GAMI)",
+      "ar": "الهيئة العامة للصناعات العسكرية"
+    },
+    "description": {
+      "en": "Government authority that adopts advanced field and laboratory environmental protection technologies.",
+      "ar": "هيئة حكومية تعتمد تقنيات متقدمة للحماية البيئية ميدانيًا ومخبريًا."
+    },
+    "industry": {
+      "en": "Industrial Hygiene & Safety",
+      "ar": "السلامة الصناعية"
+    },
+    "logo": "/images/clients/gami.png",
+    "website": "https://gami.gov.sa",
+    "since": 2017,
+    "featured": false
+  },
+  {
+    "id": "momra",
+    "name": {
+      "en": "Ministry of Municipal, Rural Affairs and Housing (MOMRA)",
+      "ar": "وزارة الشؤون البلدية والقروية والإسكان"
+    },
+    "description": {
+      "en": "Government ministry responsible for environmental standards in urban and municipal development.",
+      "ar": "وزارة حكومية مسؤولة عن المعايير البيئية في التخطيط الحضري والتنمية البلدية."
+    },
+    "industry": {
+      "en": "Sustainable Cities",
+      "ar": "المدن المستدامة"
+    },
+    "logo": "/images/clients/momrah.png",
+    "website": "https://www.momra.gov.sa",
+    "since": 2019,
+    "featured": false
+  },
+  {
+    "id": "mewa",
+    "name": {
+      "en": "Ministry of Environment, Water and Agriculture (MEWA)",
+      "ar": "وزارة البيئة والمياه والزراعة"
+    },
+    "description": {
+      "en": "The lead ministry in environmental protection, water resources, and agricultural sustainability.",
+      "ar": "الوزارة الرئيسية المعنية بحماية البيئة وموارد المياه واستدامة الزراعة."
+    },
+    "industry": {
+      "en": "Water & Wastewater",
+      "ar": "المياه والصرف الصحي"
+    },
+    "logo": "/images/clients/mewa.png",
+    "website": "https://www.mewa.gov.sa",
+    "since": 2016,
+    "featured": true
+  },
+  {
+    "id": "national-research-centers",
+    "name": {
+      "en": "National Research Centers",
+      "ar": "مراكز الأبحاث الوطنية"
+    },
+    "description": {
+      "en": "Institutions conducting advanced environmental research and analysis.",
+      "ar": "مؤسسات تجري أبحاث وتحليلات بيئية متقدمة."
+    },
+    "industry": {
+      "en": "Research & Environmental Labs",
+      "ar": "الأبحاث والمختبرات البيئية"
+    },
+    "logo": "/images/clients/research-centers.png",
+    "website": "#",
+    "since": 2015,
+    "featured": false
+  },
+  {
+    "id": "moh",
+    "name": {
+      "en": "Ministry of Health (MOH)",
+      "ar": "وزارة الصحة"
+    },
+    "description": {
+      "en": "Responsible for public health and environmental monitoring within healthcare facilities.",
+      "ar": "المسؤولة عن الصحة العامة والرصد البيئي داخل المرافق الصحية."
+    },
+    "industry": {
+      "en": "Air & Water Quality",
+      "ar": "جودة الهواء والمياه"
+    },
+    "logo": "/images/clients/moh.png",
+    "website": "https://www.moh.gov.sa",
+    "since": 2017,
+    "featured": false
+  },
+  {
+    "id": "sfda",
+    "name": {
+      "en": "Saudi Food and Drug Authority (SFDA)",
+      "ar": "هيئة الغذاء والدواء"
+    },
+    "description": {
+      "en": "Responsible for ensuring the safety and quality of food, drugs, and medical devices in Saudi Arabia.",
+      "ar": "الجهة المسؤولة عن ضمان سلامة وجودة الأغذية والأدوية والأجهزة الطبية في المملكة."
+    },
+    "industry": {
+      "en": "Lab & Industrial Equipment",
+      "ar": "المختبرات والمعدات الصناعية"
+    },
+    "logo": "/images/clients/sfda.png",
+    "website": "https://sfda.gov.sa",
+    "since": 2018,
+    "featured": false
+  },
+  {
+    "id": "king-faisal-hospital",
+    "name": {
+      "en": "King Faisal Specialist Hospital",
+      "ar": "مستشفى الملك فيصل التخصصي"
+    },
+    "description": {
+      "en": "Specialist hospital with advanced environmental diagnostic and laboratory facilities.",
+      "ar": "مستشفى متخصص يمتلك مرافق تشخيصية ومخبرية بيئية متقدمة."
+    },
+    "industry": {
+      "en": "Lab & Industrial Equipment",
+      "ar": "المختبرات والمعدات الصناعية"
+    },
+    "logo": "/images/clients/king-faisal.png",
+    "website": "https://www.kfshrc.edu.sa",
+    "since": 2016,
+    "featured": false
+  }
+]

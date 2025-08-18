@@ -1,0 +1,242 @@
+/* TypewriterEffect.css - أنماط تأثير الآلة الكاتبة */
+
+.typewriter-container {
+    display: inline-block;
+    position: relative;
+    font-family: 'Courier New', 'Monaco', 'Menlo', monospace;
+    line-height: 1.4;
+  }
+  
+  .typewriter-text {
+    display: inline;
+    color: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+  }
+  
+  /* المؤشر الوامض */
+  .typewriter-cursor {
+    display: inline-block;
+    font-weight: 100;
+    font-size: 1.1em;
+    color: #22c55e;
+    margin-left: 2px;
+    animation: blink 1.06s infinite;
+    transition: opacity 0.1s ease-in-out;
+  }
+  
+  .typewriter-cursor.visible {
+    opacity: 1;
+  }
+  
+  .typewriter-cursor.hidden {
+    opacity: 0;
+  }
+  
+  /* تأثير الوميض */
+  @keyframes blink {
+    0%, 50% {
+      opacity: 1;
+    }
+    51%, 100% {
+      opacity: 0;
+    }
+  }
+  
+  /* تحسينات للوضع الداكن */
+  .dark .typewriter-cursor {
+    color: #22c55e;
+    text-shadow: 0 0 8px rgba(34, 197, 94, 0.6);
+  }
+  
+  /* تأثيرات إضافية للمؤشر */
+  .typewriter-cursor::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(34, 197, 94, 0.3), transparent);
+    animation: cursorGlow 2s ease-in-out infinite;
+    z-index: -1;
+  }
+  
+  @keyframes cursorGlow {
+    0%, 100% {
+      opacity: 0;
+      transform: scaleX(0.8);
+    }
+    50% {
+      opacity: 1;
+      transform: scaleX(1.2);
+    }
+  }
+  
+  /* تحسينات للنص */
+  .typewriter-text {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  /* تأثير الكتابة المتدرجة */
+  .typewriter-container.typing .typewriter-text {
+    border-right: 2px solid transparent;
+    animation: typing-border 0.1s ease-in-out;
+  }
+  
+  @keyframes typing-border {
+    0% {
+      border-right-color: rgba(34, 197, 94, 0.5);
+    }
+    100% {
+      border-right-color: transparent;
+    }
+  }
+  
+  /* أنماط مختلفة للمؤشر */
+  .typewriter-cursor.block {
+    background-color: #22c55e;
+    color: #0f172a;
+    padding: 0 2px;
+    margin-left: 1px;
+  }
+  
+  .typewriter-cursor.underline {
+    border-bottom: 2px solid #22c55e;
+    background: transparent;
+    color: transparent;
+    width: 8px;
+    margin-left: 1px;
+  }
+  
+  .typewriter-cursor.beam {
+    width: 2px;
+    background-color: #22c55e;
+    color: transparent;
+    margin-left: 1px;
+  }
+  
+  /* تحسينات للشاشات الصغيرة */
+  @media (max-width: 768px) {
+    .typewriter-container {
+      font-size: 0.9em;
+    }
+    
+    .typewriter-cursor {
+      font-size: 1em;
+      margin-left: 1px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .typewriter-container {
+      font-size: 0.8em;
+    }
+    
+    .typewriter-text {
+      letter-spacing: 0.3px;
+    }
+  }
+  
+  /* تحسينات للأداء */
+  .typewriter-container {
+    will-change: contents;
+  }
+  
+  .typewriter-cursor {
+    will-change: opacity;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+  }
+  
+  /* تقليل الحركة للمستخدمين الذين يفضلون ذلك */
+  @media (prefers-reduced-motion: reduce) {
+    .typewriter-cursor {
+      animation: none;
+      opacity: 1;
+    }
+    
+    .typewriter-cursor::before {
+      animation: none;
+      opacity: 0;
+    }
+    
+    @keyframes blink {
+      0%, 100% {
+        opacity: 1;
+      }
+    }
+  }
+  
+  /* تحسينات للطباعة */
+  @media print {
+    .typewriter-cursor {
+      display: none;
+    }
+    
+    .typewriter-text {
+      font-family: inherit;
+    }
+  }
+  
+  /* تحسينات للتباين العالي */
+  @media (prefers-contrast: high) {
+    .typewriter-cursor {
+      color: currentColor;
+      text-shadow: none;
+    }
+    
+    .typewriter-cursor::before {
+      display: none;
+    }
+  }
+  
+  /* أنماط خاصة للاستخدام في LoadingScreen */
+  .loading-typewriter {
+    color: #cbd5e1;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.4;
+    opacity: 0.9;
+    font-style: italic;
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .loading-typewriter .typewriter-cursor {
+    color: #22c55e;
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  /* تأثير ظهور تدريجي للنص */
+  .typewriter-text {
+    opacity: 0;
+    animation: fadeInChar 0.1s ease-in-out forwards;
+  }
+  
+  @keyframes fadeInChar {
+    0% {
+      opacity: 0;
+      transform: translateY(2px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* تحسين للخطوط العربية */
+  [dir="rtl"] .typewriter-container {
+    font-family: 'IBM Plex Sans Arabic', 'Courier New', monospace;
+    direction: rtl;
+    text-align: right;
+  }
+  
+  [dir="rtl"] .typewriter-cursor {
+    margin-left: 0;
+    margin-right: 2px;
+  }

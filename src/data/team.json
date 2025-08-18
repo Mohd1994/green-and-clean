@@ -1,0 +1,176 @@
+[
+  {
+    "id": "Ibrahim Al-Ruqaybah",
+    "name": {
+      "en": "Mr. Ibrahim Al-Ruqaybah",
+      "ar": "أ. إبراهيم الرقيبة"
+    },
+    "position": {
+      "en": "General Manager ",
+      "ar": "المدير العام لشركة جرين آند كلين"
+    },
+    "bio": {
+      "en": "GM of Green & Clean, lawyer and legal consultant in energy and environmental issues (Energy and Environmental Law), arbitrator in environmental cases, and certified expert by the Ministry of Justice.",
+      "ar": "المدير العام لشركة جرين آند كلين، محامٍ ومستشار قانوني في قضايا الطاقة والبيئة (قانون الطاقة والبيئة)، ومحكّم في القضايا البيئية، وخبير معتمد لدى وزارة العدل."
+    },
+    "image": "/images/team/general-manager.jpg",
+    "experience": 15,
+    "education": {
+      "en": "",
+      "ar": ""
+    },
+    "specialties": {
+      "en": ["Energy and Environmental Law", "Legal Consulting", "Environmental Arbitration", "Justice Ministry Certified Expertise"],
+      "ar": ["قانون الطاقة والبيئة", "الاستشارات القانونية", "التحكيم البيئي", "خبير معتمد لدى وزارة العدل"]
+    },
+    "linkedin": "",
+    "email": ""
+  },
+  {
+    "id": "abdul-wali-ajlouni",
+    "name": {
+      "en": "Dr. Abdul-Wali Ajlouni",
+      "ar": "د. عبد الوالي العجلوني"
+    },
+    "position": {
+      "en": "Chief Executive Officer",
+      "ar": "الرئيس التنفيذي"
+    },
+    "bio": {
+      "en": "CEO at Green & Clean. Nuclear security and radiation safety expert with over 35 years of academic and consulting experience across the Arab region.",
+      "ar": "الرئيس التنفيذي لشركة جرين آند كلين. خبير في الأمن النووي وسلامة الإشعاع، يمتلك خبرة أكاديمية واستشارية تتجاوز 35 عامًا في العالم العربي."
+    },
+    "image": "/images/team/Abdulwali.jpg",
+    "experience": 35,
+    "education": {
+      "en": "Ph.D. in Theoretical Radiation Physics – University of Jordan, 2004",
+      "ar": "دكتوراه في الفيزياء الإشعاعية النظرية – الجامعة الأردنية، 2004"
+    },
+    "specialties": {
+      "en": [
+        "Nuclear Security & Radiation Safety",
+        "Environmental Radioactivity & Radioactive Waste Management",
+        "CBRN Risk Assessment",
+        "Theoretical & Applied Radiation Physics",
+        "Nanoscience Applications",
+        "Academic & Scientific Research Leadership"
+      ],
+      "ar": [
+        "الأمن النووي وسلامة الإشعاع",
+        "النشاط الإشعاعي البيئي وإدارة النفايات المشعة",
+        "تقييم مخاطر المواد الكيميائية والبيولوجية والإشعاعية والنووية (CBRN)",
+        "الفيزياء الإشعاعية النظرية والتطبيقية",
+        "تطبيقات علم النانو",
+        "القيادة البحثية والعلمية الأكاديمية"
+      ]
+    },
+    "linkedin": "https://bit.ly/44TMs0J",
+    "email": "awajlouni@hotmail.com"
+  },
+  {
+    "id": "mohammad-sadiq",
+    "name": {
+      "en": "Eng. Mohammad Sadiq",
+      "ar": "م. محمد صادق"
+    },
+    "position": {
+      "en": "Chief Marketing Officer",
+      "ar": "الرئيس التنفيذي للتسويق"
+    },
+    "bio": {
+      "en": "Tech entrepreneur and CMO at Green and Clean, specializing in AI-driven solutions, digital transformation, RPA automation, and building scalable web platforms that align technology with real business impact.",
+      "ar": "رائد أعمال تقني والرئيس التنفيذي للتسويق في شركة جرين آند كلين، متخصص في الحلول المدعومة بالذكاء الاصطناعي، التحول الرقمي، أتمتة العمليات الروبوتية (RPA)، وبناء منصات ويب قابلة للتوسع تدمج التقنية بالأثر التجاري الفعلي."
+    },
+    "image": "/images/team/mohammad.png",
+    "experience": 8,
+    "education": {
+      "en": "Bachelor of Software Engineering",
+      "ar": "بكالوريوس هندسة برمجيات "
+    },
+    "specialties": {
+      "en": [
+        "Strategic Marketing & Digital Growth",
+        "AI Prompt Engineering (LLMs & RPA)",
+        "Full-Stack Web Development (.NET Core, React, Next.js)",
+        "Business Process Automation",
+        "Tech-Driven Startup Strategy"
+      ],
+      "ar": [
+        "التسويق الاستراتيجي والنمو الرقمي",
+        "هندسة المحفزات للذكاء الاصطناعي (النماذج اللغوية والأتمتة الروبوتية)",
+        "تطوير ويب متكامل (.NET Core، React، Next.js)",
+        "أتمتة العمليات التجارية",
+        "استراتيجيات الشركات الناشئة التقنية"
+      ]
+    },
+    "linkedin": "https://linkedin.com/in/mohammad-sq",
+    "email": "malhajj@greenandclean.com"
+  },
+  {
+    "id": "Amira-AbdElhamid",
+    "name": {
+      "en": "Dr. Amira AbdElhamid",
+      "ar": "د. أميرة عبد الحميد"
+    },
+    "position": {
+      "en": "Chief Legal Officer",
+      "ar": "الرئيس التنفيذي للشؤون القانونية"
+    },
+    "bio": {
+      "en": "Chief Legal Officer (CLO) and international arbitration specialist with over 10 years of combined experience in dispute resolution, legal research, and advocacy. Amira has successfully handled high-profile cases before leading arbitration institutions such as ICC, ICSID, SIAC, and CRCICA.",
+      "ar": "الرئيس التنفيذي للشؤون القانونية (CLO) ومتخصصة في التحكيم الدولي تتمتع بخبرة تزيد عن 10 سنوات في تسوية المنازعات، والبحوث القانونية، والمرافعة. تولّت أميرة إدارة قضايا بارزة أمام مؤسسات تحكيم دولية مرموقة مثل غرفة التجارة الدولية (ICC)، ومركز تسوية منازعات الاستثمار (ICSID)، والمركز الإقليمي للتحكيم التجاري الدولي (CRCICA)، ومركز سنغافورة للتحكيم الدولي (SIAC)."
+    },
+    "image": "/images/team/Amira.jpg",
+    "experience": 8,
+    "education": {
+      "en": "LL.M (Master of Laws) , Ain Shams University",
+      "ar": "دكتوراه في القانون الدولي، جامعة عين شمس"
+    },
+    "specialties": {
+      "en": [
+        "International Arbitration",
+        "Investment & Commercial Disputes",
+        "ADR & Legal Strategy",
+        "Legal Research & Drafting",
+        "Contract Law"
+      ],
+      "ar": [
+        "التحكيم الدولي",
+        "منازعات الاستثمار والتجارة",
+        "استراتيجيات ADR القانونية",
+        "البحث والصياغة القانونية",
+        "قانون العقود"
+      ]
+    },
+    "linkedin": "linkedin.com/in/amira-abdelhamid-fciarb-llm-339571200",
+    "email": "amiraabdelhamid055@gmail.com"
+  },
+  {
+    "id": "omar-ajlouni",
+    "name": {
+      "en": "Eng. Omar Ajlouni",
+      "ar": "م. عمر العجلوني"
+    },
+    "position": {
+      "en": "Mechanical Engineer",
+      "ar": "مهندس ميكانيك"
+    },
+    "bio": {
+      "en": "Technical Engineer at Green & Clean with 2–3 years of experience in mechanical systems and their applications in energy and environmental solutions. Passionate about integrating engineering practices to support sustainable development.",
+      "ar": "مهندس تقني في شركة جرين آند كلين بخبرة تتراوح بين سنتين إلى ثلاث سنوات في الأنظمة الميكانيكية وتطبيقاتها في مجالات الطاقة والبيئة. شغوف بدمج الممارسات الهندسية لدعم التنمية المستدامة."
+    },
+    "image": "/images/team/omar.jpg",
+    "experience": 3,
+    "education": {
+      "en": "Al-Balqa'a Applied University - Faculty of Engineering Technology",
+      "ar": "جامعة البلقاء التطبيقية - كلية الهندسة التكنولوجية"
+    },
+    "specialties": {
+      "en": ["Mechanical Systems", "Energy Applications", "Environmental Solutions", "Sustainable Development"],
+      "ar": ["الأنظمة الميكانيكية", "تطبيقات الطاقة", "الحلول البيئية", "التنمية المستدامة"]
+    },
+    "linkedin": "https://linkedin.com/in/omar-ajlouni-b120bb322",
+    "email": "Omarajlouni02@gmail.com"
+  }  
+]
+

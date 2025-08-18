@@ -1,0 +1,181 @@
+[
+  {
+    "id": "energy-project-lifecycle",
+    "title": {
+      "en": "Energy Project Lifecycle Management",
+      "ar": "إدارة دورة حياة مشاريع الطاقة"
+    },
+    "fullDescription": {
+      "en": "We provide end-to-end management for energy projects, covering every critical phase of the lifecycle — from in-depth feasibility analysis and technical design to procurement, construction supervision, commissioning, and post-deployment support. Our multidisciplinary approach ensures that each project is delivered on time, within budget, and aligned with environmental, regulatory, and sustainability standards. Whether it's a renewable installation, hybrid system, or national-scale infrastructure, we tailor our strategies to deliver long-term value, efficiency, and impact.",
+      "ar": "نقدّم إدارة شاملة لمشاريع الطاقة تغطي جميع المراحل الحيوية لدورة حياة المشروع، بدءاً من التحليل المتعمّق للجدوى، والتصميم الفني الدقيق، مروراً بعمليات التوريد والإشراف على التنفيذ، ووصولاً إلى التشغيل النهائي والدعم بعد التسليم. نعتمد نهجاً متعدد التخصصات يضمن تسليم المشروع في الوقت المحدد، وضمن الميزانية، وبما يتوافق مع المعايير البيئية والتنظيمية ومعايير الاستدامة. سواء كان المشروع محطة طاقة متجددة، أو نظاماً هجينيّاً، أو بنية تحتية على نطاق وطني، فإننا نطوّر استراتيجيات مخصصة تحقق الكفاءة والقيمة طويلة الأمد والتأثير الفعلي."
+    },
+    "description": {
+      "en": "We manage energy projects through all stages including feasibility studies, system design, procurement, and commissioning to ensure efficiency and sustainability.",
+      "ar": "ندير مشاريع الطاقة عبر جميع المراحل بما في ذلك دراسات الجدوى، وتصميم الأنظمة، والتوريد، والتشغيل لضمان الكفاءة والاستدامة."
+    },
+    "image": "/images/services/energy-lifecycle.jpg",
+    "icon": "⚡",
+    "category": "energy"
+  },
+  {
+    "id": "hybrid-renewable-design",
+    "title": {
+      "en": "Hybrid & Renewable Systems Design",
+      "ar": "تصميم الأنظمة الهجينة والمتجددة"
+    },
+    "description": {
+      "en": "Design of solar, wind, hydrogen and hybrid energy systems.",
+      "ar": "تصميم أنظمة الطاقة الشمسية، الرياح، الهيدروجين، والأنظمة المدمجة."
+    },
+    "fullDescription": {
+      "en": "We specialize in designing advanced renewable energy systems, including solar, wind, hydrogen, and hybrid integrations that support sustainable infrastructure.",
+      "ar": "نحن متخصصون في تصميم أنظمة الطاقة المتجددة المتقدمة، بما في ذلك الطاقة الشمسية والرياح والهيدروجين والأنظمة الهجينة الداعمة للبنية التحتية المستدامة."
+    },
+    "image": "/images/services/renewable-design.jpg",
+    "icon": "🔋",
+    "category": "energy"
+  },
+  {
+    "id": "carbon-auditing",
+    "title": {
+      "en": "Energy & Carbon Auditing",
+      "ar": "تدقيق الطاقة والبصمة الكربونية"
+    },
+    "description": {
+      "en": "Assessing energy use and carbon emissions.",
+      "ar": "تقييم استهلاك الطاقة والانبعاثات الكربونية."
+    },
+    "fullDescription": {
+      "en": "Our auditing services analyze energy consumption and carbon footprint to identify opportunities for emissions reduction and sustainability improvement.",
+      "ar": "تحلل خدمات التدقيق لدينا استهلاك الطاقة والبصمة الكربونية لتحديد فرص تقليل الانبعاثات وتحسين الاستدامة."
+    },
+    "image": "/images/services/carbon-audit.jpg",
+    "icon": "📊",
+    "category": "sustainability"
+  },
+  {
+    "id": "impact-assessment",
+    "title": {
+      "en": "Environmental & Social Impact Assessment",
+      "ar": "تقييم الأثر البيئي والاجتماعي"
+    },
+    "description": {
+      "en": "Impact assessment with environmental compliance support.",
+      "ar": "تقييم تأثير المشاريع مع دعم الامتثال البيئي."
+    },
+    "fullDescription": {
+      "en": "We conduct environmental and social impact assessments, ensuring projects align with sustainability goals and legal regulations.",
+      "ar": "نجري تقييمات للأثر البيئي والاجتماعي لضمان توافق المشاريع مع أهداف الاستدامة واللوائح القانونية."
+    },
+    "image": "/images/services/impact-assessment.jpg",
+    "icon": "🌿",
+    "category": "consulting"
+  },
+  {
+    "id": "permitting-compliance",
+    "title": {
+      "en": "Environmental Permitting & Legal Compliance",
+      "ar": "التصاريح البيئية والامتثال القانوني"
+    },
+    "fullDescription": {
+      "en": "In partnership with Spirit Of Law, Green and Clean delivers integrated legal support to help clients secure environmental permits, meet regulatory requirements, and ensure full legal compliance. Spirit Of Law is a trusted Saudi law firm that provides modern, tailored, and cost-effective legal services to companies, institutions, and individuals. With a forward-thinking approach, they offer legal solutions that align with the evolving needs of today’s organizations — saving time, effort, and resources.",
+      "ar": "بالتعاون مع روح النظام، توفّر شركة Green and Clean دعماً قانونياً متكاملاً لمساعدة العملاء في استخراج التصاريح البيئية، والامتثال للتنظيمات، وضمان الالتزام القانوني الكامل. روح النظام هي شركة محاماة سعودية موثوقة، تقدم خدمات قانونية حديثة، مخصصة، وفعّالة من حيث التكلفة للشركات والمؤسسات والأفراد. من خلال نهج متطور، توفّر حلولاً قانونية تواكب متطلبات الأعمال المتغيرة، مما يوفر الوقت والجهد والتكاليف."
+    },
+    "description": {
+      "en": "Legal support for environmental permitting and compliance — in partnership with Spirit of law firm.",
+      "ar": "دعم قانوني للتصاريح البيئية والامتثال — بالتعاون مع مكتب روح النظام."
+    },
+    "image": "/images/services/Spirit-Of-Law.png",
+    "icon": "⚖️",
+    "category": "compliance",
+    "cta": {
+      "type": "link",
+      "text": {
+        "en": "Visit Spirit Of Law",
+        "ar": "زيارة موقع روح النظام"
+      },
+      "url": "https://www.spirit-of-law.com/"
+    }
+  },
+  {
+    "id": "net-zero-strategy",
+    "title": {
+      "en": "Net Zero & Decarbonization Strategies",
+      "ar": "استراتيجيات الحياد الكربوني وإزالة الانبعاثات"
+    },
+    "description": {
+      "en": "Planning for net zero emissions and energy efficiency.",
+      "ar": "خطط الحياد الكربوني وتحسين كفاءة الطاقة."
+    },
+    "fullDescription": {
+      "en": "We create actionable plans to reduce carbon emissions, improve energy efficiency, and support net-zero targets.",
+      "ar": "نضع خططاً قابلة للتنفيذ لتقليل الانبعاثات الكربونية، وتحسين كفاءة الطاقة، ودعم أهداف الحياد الكربوني."
+    },
+    "image": "/images/services/net-zero.jpg",
+    "icon": "🌍",
+    "category": "sustainability"
+  },
+  {
+    "id": "project-management",
+    "title": {
+      "en": "Project & Asset Management",
+      "ar": "إدارة المشاريع والأصول"
+    },
+    "description": {
+      "en": "Managing energy projects and long-term assets.",
+      "ar": "إدارة المشاريع والأصول طويلة الأمد."
+    },
+    "fullDescription": {
+      "en": "We offer end-to-end management for projects and infrastructure assets, ensuring timely delivery, maintenance, and performance.",
+      "ar": "نقدم إدارة شاملة للمشاريع والأصول، تضمن التسليم في الوقت المناسب، والصيانة، والأداء الفعال."
+    },
+    "image": "/images/services/project-management.jpg",
+    "icon": "🛠️",
+    "category": "management"
+  },
+  {
+    "id": "water-treatment",
+    "title": {
+      "en": "Water Treatment Solutions",
+      "ar": "حلول معالجة المياه"
+    },
+    "description": {
+      "en": "We deliver custom water treatment solutions for clean water, wastewater, and reuse — helping ensure sustainability, safety, and compliance.",
+      "ar": "نقدّم حلولاً مخصصة لمعالجة المياه ومياه الصرف وإعادة الاستخدام، لضمان الاستدامة والسلامة والامتثال البيئي."
+    },
+    "fullDescription": {
+      "en": "Our water treatment services cover the full lifecycle of clean water management — from source assessment and treatment design to deployment, compliance testing, and long-term operation. We utilize eco-friendly technologies such as membrane filtration, biological treatment, and chemical dosing to ensure optimal purification. Whether it’s industrial wastewater, potable water for communities, or greywater reuse, we deliver tailored systems that balance cost, sustainability, and performance.",
+      "ar": "تشمل خدمات معالجة المياه لدينا دورة حياة كاملة لإدارة المياه النظيفة، بدءاً من تقييم المصدر وتصميم المعالجة، مروراً بالتنفيذ، والاختبارات التنظيمية، وصولاً إلى التشغيل طويل الأمد. نستخدم تقنيات صديقة للبيئة مثل الترشيح الغشائي، والمعالجة البيولوجية، والجرعات الكيميائية لضمان التنقية المثلى. سواء كانت مياه صرف صناعية، أو مياه شرب للمجتمعات، أو إعادة استخدام المياه الرمادية، فإننا نقدم أنظمة مخصصة تحقق التوازن بين التكلفة والاستدامة والأداء."
+    },
+    "image": "/images/services/water-treatment.jpg",
+    "icon": "💧",
+    "category": "treatment"
+  },
+  {
+    "id": "radiation-nuclear-safety",
+    "title": {
+      "en": "Radiation Detection & Nuclear Safety Systems",
+      "ar": "أنظمة الكشف الإشعاعي وسلامة المفاعلات النووية"
+    },
+    "fullDescription": {
+      "en": "In collaboration with ANFAS Group, Green and Clean delivers cutting-edge solutions in radiation detection, nuclear safety, and environmental monitoring. With over 25 years of experience, ANFAS provides advanced technologies for radiation measurements, spectrometry (Alpha, Beta, Gamma), radiation protection, NORM detection, nuclear waste management, CBRN operations, and emergency response systems. We also offer specialized training, consulting, and accredited technical services for calibration and maintenance — ensuring safety and compliance across industrial, research, and energy sectors.",
+      "ar": "بالتعاون مع مجموعة أنفاس، تقدّم شركة Green and Clean حلولاً متقدمة في مجالات الكشف الإشعاعي، السلامة النووية، والمراقبة البيئية. بخبرة تفوق 25 عاماً، توفر أنفاس أحدث التقنيات في قياسات الإشعاع، التحليل الطيفي (ألفا، بيتا، جاما)، الحماية الإشعاعية، الكشف عن النورم، إدارة النفايات النووية، عمليات CBRN، وأنظمة الاستجابة للطوارئ. كما نوفر استشارات وتدريبات متخصصة وخدمات فنية معتمدة للصيانة والمعايرة لضمان السلامة والامتثال في القطاعات الصناعية والبحثية وقطاع الطاقة."
+    },
+    "description": {
+      "en": "Advanced solutions for radiation detection, nuclear safety, CBRN response, and environmental monitoring — in partnership with ANFAS Group.",
+      "ar": "حلول متقدمة في الكشف الإشعاعي، السلامة النووية، الاستجابة لـ CBRN، والمراقبة البيئية — بالتعاون مع مجموعة أنفاس."
+    },
+    "image": "/images/services/Anfas.png",
+    "icon": "☢️",
+    "category": "energy",
+    "cta": {
+      "type": "link",
+      "text": {
+        "en": "Visit ANFAS Group",
+        "ar": "زيارة موقع أنفاس"
+      },
+      "url": "https://anfasmedical.com/"
+    }
+  }  
+  
+]
