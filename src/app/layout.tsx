@@ -6,7 +6,7 @@ import { DirectionProvider } from "@/contexts/DirectionContext";
 import { ThemeProvider } from "@/contexts/ThemeContext";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import ClientWrapper from "@/components/ClientWrapper"; // مكون wrapper جديد
+import ClientWrapper from "@/components/ClientWrapper";
 import ScrollToTopButton from "@/components/ScrollToTopButton";
 
 const inter = Inter({
@@ -21,10 +21,11 @@ const ibmPlexArabic = IBM_Plex_Sans_Arabic({
 });
 
 export const metadata: Metadata = {
-  title: "Green and Clean - Environmental Solutions",
-  description: "Leading environmental solutions and green energy services in Saudi Arabia, aligned with Vision 2030",
-  keywords: "environmental solutions, green energy, Saudi Arabia, Vision 2030, sustainability",
+  title: "Green and Clean - Your Partner in Sustainable Future",
+  description: "Leading consultancy in sustainable energy, environmental solutions, and training. We optimize resources, reduce risks, and drive sustainability transitions with expert guidance.",
+  keywords: "sustainable energy, environmental solutions, carbon management, regulatory compliance, environmental services, sustainability training, consultancy, green solutions, energy project management, hybrid & renewable systems, net zero strategies, decarbonization strategies, environmental permitting, legal compliance, impact assessment, radiation detection, nuclear safety, water treatment solutions, project management, asset management, شركة طاقة وحلول بيئية, خدمات بيئية, تدريب استدامة, استشارات بيئية, حلول خضراء, إدارة الكربون, الامتثال البيئي, إدارة مشاريع الطاقة, تصميم أنظمة هجينة ومتجددة, استراتيجيات صافي الصفر وتقليل الكربون, الترخيص البيئي والامتثال القانوني, تقييم الأثر البيئي والاجتماعي, الكشف عن الإشعاع وأنظمة السلامة النووية, حلول معالجة المياه, إدارة المشاريع والأصول",
 };
+
 
 export default function RootLayout({
   children,
@@ -33,6 +34,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        {/* هذا هو المكان اللي بتحط فيه كود إثبات الملكية من Google Search Console */}
+        <meta name="google-site-verification" content="3LJkPcnY17T9Kh3b50_KeCyJgniKCKO1q0dejrWzW3g" />
+      </head>
       <body
         className={`${inter.variable} ${ibmPlexArabic.variable} antialiased min-h-screen flex flex-col`}
         suppressHydrationWarning
