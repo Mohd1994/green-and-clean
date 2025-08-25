@@ -65,55 +65,169 @@ npm start
 ## 📁 Project Structure
 
 ```
-green-and-clean/
-├── src/
-│   ├── app/                    # Next.js App Router pages
-│   │   ├── about/
-│   │   ├── clients/
-│   │   ├── contact/
-│   │   ├── partners/
-│   │   ├── products/
-│   │   ├── services/
-│   │   ├── team/
-│   │   ├── globals.css
-│   │   ├── layout.tsx
-│   │   └── page.tsx
-│   ├── components/             # Reusable React components
-│   │   ├── ClientCard.tsx
-│   │   ├── Footer.tsx
-│   │   ├── HeroSection.tsx
-│   │   ├── LanguageToggle.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── PartnerCard.tsx
-│   │   ├── ProductCard.tsx
-│   │   ├── ServiceCard.tsx
-│   │   ├── TeamCard.tsx
-│   │   └── ThemeToggle.tsx
-│   ├── contexts/               # React Context providers
-│   │   ├── DirectionContext.tsx
-│   │   ├── LanguageContext.tsx
-│   │   └── ThemeContext.tsx
-│   ├── data/                   # JSON data files
-│   │   ├── clients.json
-│   │   ├── partners.json
-│   │   ├── products.json
-│   │   ├── services.json
-│   │   └── team.json
-│   ├── types/                  # TypeScript type definitions
-│   │   └── index.ts
-│   └── utils/                  # Utility functions
-├── public/                     # Static assets
-│   └── images/                 # Image assets
-│       ├── hero/
-│       ├── services/
-│       ├── products/
-│       ├── clients/
-│       ├── partners/
-│       └── team/
+Green and Clean Project
+│
+├── .next
+├── node_modules
+├── public
+│     ├──images
+│     │    └── achievements
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── clients
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── Counter-Bg
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── flags
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── hero
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── LoadingSC
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── manufacturers
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── mediaGallery
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── Navbar_CompanyLogo
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── partners
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── products
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── SaudiVision
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── services
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     │    └── team
+│     │         └── عدة صور عشان تخدم اللوغوهات
+│     ├── specs
+│     │    └── عدة ملفات عشان تخدم المواصفات التقنية
+│     ├── videos
+│     │    └── HomePage
+│     │         └── عدة فيديوهات عشان تخدم اللوغوهات
+│     │    └── PartnersPage
+│     │         └── عدة فيديوهات عشان تخدم اللوغوهات     
+│     │    └── ServicePage
+│     │         └── عدة فيديوهات عشان تخدم اللوغوهات
+│     │
+│     ├── file.svg
+│     │
+│     ├── globe.svg
+│     │
+│     ├── next.svg
+│     │
+│     ├── vercel.svg
+│     │
+│     └── window.svg
+│
+src/
+├── app/
+│   ├── about/
+│   │      └── page.tsx
+│   ├── clients/
+│   │      └── page.tsx
+│   ├── contact/
+│   │      └── page.tsx
+│   ├── partners/
+│   │      └── page.tsx
+│   ├── products/
+│   │      └── page.tsx
+│   ├── services/
+│   │      └── page.tsx
+│   └── team/
+│          └── page.tsx
+│
+│
+├── favicon.ico
+├── globals.css
+├── layout.tsx
+├── page.tsx
+├── sitemap.ts
+│
+├── components/
+│   │
+│   ├── AchievementsCarousel.tsx
+│   │
+│   ├── ClientCard.tsx
+│   │
+│   ├── ClientWrapper.tsx
+│   │
+│   ├── DynamicCounter.tsx
+│   │   
+│   ├── Footer.tsx
+│   │   
+│   ├── FullScreenMediaGallery.tsx
+│   │   
+│   ├── HeroSection.tsx
+│   │ 
+│   ├── LanguageToggle.tsx
+│   │   
+│   ├── LoadingScreen.css
+│   │   
+│   ├── LoadingScreen.tsx
+│   │
+│   ├── Navbar.tsx
+│   │   
+│   ├── PartnerCard.tsx
+│   │   
+│   ├── ProductCard.tsx
+│   │
+│   ├── ProductModal.tsx
+│   │
+│   ├── ScrollToTopButton.tsx
+│   │
+│   ├── ServiceCard.tsx
+│   │      
+│   ├── TeamCard.tsx
+│   │
+│   ├── ThemeToggle.tsx
+│   │
+│   ├── TypewriterEffect.css
+│   │      
+│   └── TypewriterEffect.tsx
+│          
+├── contexts/
+│   │
+│   ├── DirectionContext.tsx
+│   │      
+│   ├── LanguageContext.tsx
+│   │      
+│   └── ThemeContext.tsx
+│
+├── data/
+│   │
+│   ├── clients.json
+│   │
+│   ├── partners.json
+│   │
+│   ├── products.json
+│   │      
+│   ├── services.json
+│   │      
+│   └── team.json
+│
+├── types/
+│   │      
+│   └── index.ts
+│
+├── .gitignore
+│
+├── eslint.config.mjs
+│
+├── next-env.d.ts
+│
+├── next.config.ts
+│
+├── package-lock.json
+│
 ├── package.json
-├── tailwind.config.js
-├── tsconfig.json
-└── README.md
+│
+├── postcss.config.mjs
+│
+├── README.md
+│
+├── todo.md
+│
+└── tsconfig.json
 ```
 
 ## 🎨 Design System
