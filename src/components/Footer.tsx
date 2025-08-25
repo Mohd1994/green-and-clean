@@ -128,13 +128,13 @@ const Footer = () => {
             <div>
               <h4 className="font-semibold text-foreground mb-2">{t('contact.form.email')}</h4>
               <p className="text-muted-foreground">
-                info@greenandclean.sa.com
+                info@greenandcleansa.com
               </p>
             </div>
             <div>
               <h4 className="font-semibold text-foreground mb-2">{t('contact.form.phone')}</h4>
               <p className="text-muted-foreground">
-                +966 11 123 4567
+                +966 54 595 0607
               </p>
             </div>
           </div>

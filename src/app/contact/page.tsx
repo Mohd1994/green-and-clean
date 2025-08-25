@@ -101,7 +101,7 @@ export default function ContactPage() {
                       value={formData.phone}
                       onChange={handleInputChange}
                       className="w-full px-4 py-3 border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent bg-background text-foreground"
-                      placeholder={language === 'en' ? '+966 50 123 4567' : '+966 50 123 4567'}
+                      placeholder={language === 'en' ? '+966 ** *** ****' : '+966 ** *** ****'}
                     />
                   </div>
                   <div>
@@ -229,8 +229,7 @@ export default function ContactPage() {
                     <h3 className="font-semibold text-foreground mb-1">
                       {language === 'en' ? 'Phone Number' : 'رقم الهاتف'}
                     </h3>
-                    <p className="text-muted-foreground">+966 11 123 4567</p>
-                    <p className="text-muted-foreground">+966 50 987 6543</p>
+                    <p className="text-muted-foreground">+966 54 595 0607</p>
                   </div>
                 </div>
 
@@ -245,8 +244,7 @@ export default function ContactPage() {
                     <h3 className="font-semibold text-foreground mb-1">
                       {language === 'en' ? 'Email Address' : 'البريد الإلكتروني'}
                     </h3>
-                    <p className="text-muted-foreground">info@greenandclean.sa.com</p>
-                    <p className="text-muted-foreground">projects@greenandclean.sa.com</p>
+                    <p className="text-muted-foreground">info@greenandcleansa.com</p>
                   </div>
                 </div>
 
@@ -263,7 +261,7 @@ export default function ContactPage() {
                     </h3>
                     <p className="text-muted-foreground">
                       {language === 'en' 
-                        ? 'Sunday - Thursday: 8:00 AM - 6:00 PM\nFriday - Saturday: Closed'
+                        ? 'Sunday - Thursday: 9:00 AM - 5:00 PM\nFriday - Saturday: Closed'
                         : 'الأحد - الخميس: 8:00 ص - 6:00 م\nالجمعة - السبت: مغلق'
                       }
                     </p>
